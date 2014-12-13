@@ -1,0 +1,5 @@
+* [Zadania iteracyjne](iteracja.md)
+* [Zadania rekurencyjne](rekurencja.md)
+* [Programowanie dynamiczne](dynamiczne.md)
+* [Obliczanie / dowodzenie złożoności](zlozonosc.md)
+* [Sortowanie](sortowanie.md)
