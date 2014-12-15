@@ -5,11 +5,13 @@ Mała Zosia chowa swoje skarby w pudełeczkach. Często chciałaby wiedzieć, il
 ### Wejście
 
 Pierwsza linia wejścia składa się z jednej liczby całkowitej `x` (`1 <= x <= 1000`) oznaczającej liczbę pudełeczek. W kolejnej linii znajduje się x liczb całkowitych opisujących liczbę skarbów w każdym pudełeczku - od pierwszego do `x`-tego. Każde pudełeczko mieści co najwyżej `100` skarbów.
+
 W kolejnej linii znajduje się liczba `y` (`1 <= y <= 1000`) zapytań Zosi. Kolejnych `y` linii zawiera po dwie liczby całkowite `a` i `b` (`1 <= a <= b <= x`), oznaczające numery pudełek wskazanych przez Zosię.
 
 ### Wyjście
 
 Na wyjściu należy wypisać `y` linii - każda powinna zawierać dokładnie jedną liczbę, która jest odpowiedzią na pytanie Zosi, czyli łączną liczbą skarbów w pudełkach, które stoją pomiędzy wskazanymi (wraz z zawartością wskazanych pudełek).
+
 *Uwaga*: Zawartość pudełek wskazanych przez Zosię (czyli krańcowych) wlicza się do łącznej liczby skarbów "pomiędzy" nimi.
 
 ### Przykład

@@ -4,13 +4,14 @@ Studenci w toku swoich studiów otrzymują pewne oceny. Zdarzają się w trakcie
 
 Napisz program, który będzie wczytywał kolejne oceny otrzymywane przez studenta (od `2` do `5` - zakładamy, że nie ma połówek), a dla podanych poniżej wartości będzie wykonywał następujące akcje:
 
-`1`: wypisanie na wyjściu średniej dotychczas otrzymanych ocen, z dokładnością do dwóch miejsc po przecinku,
-`0`: wypisanie na wyjściu w jednej linii wszystkich dotychczas otrzymanych ocen w kolejności ich otrzymywania,
-`-1`: zakończenie studiów (koniec działania programu).
+- `1`: wypisanie na wyjściu średniej dotychczas otrzymanych ocen, z dokładnością do dwóch miejsc po przecinku,
+- `0`: wypisanie na wyjściu w jednej linii wszystkich dotychczas otrzymanych ocen w kolejności ich otrzymywania,
+- `-1`: zakończenie studiów (koniec działania programu).
 
 ### Wejście
 
 Wejście składa się z ciągu liczb całkowitych. Każda liczba przyjmuje wartość od `-1` do `5`, gdzie liczby od `2` do `5` oznaczają oceny otrzymane przez studenta, a znaczenie liczb `1`, `0` i `-1` opisano w treści zadania.
+
 Na wejściu nie pojawi się więcej niż `1010` liczb.
 
 ### Wyjście
