@@ -1,6 +1,6 @@
 # Zadanie Suma NWD (ppr11)
 
-Dany jest następujący problem: pewien generator wyrzuca z siebie ciąg losowych liczb naturalnych. Co jakiś czas na wejściu pojawia się liczba `1`. Należy wówczas wyliczyć największy wspólny dzielnik dwóch ostatnich liczb większych od `1`, aby na końcu móc podać sumę wszystkich obliczonych w ten sposób wartości. Gdy na wejściu pojawia się 0, oznacza to, że generator zakończył swe działanie.
+Dany jest następujący problem: pewien generator wyrzuca z siebie ciąg losowych liczb naturalnych. Co jakiś czas na wejściu pojawia się liczba `1`. Należy wówczas wyliczyć największy wspólny dzielnik dwóch ostatnich liczb większych od `1`, aby na końcu móc podać sumę wszystkich obliczonych w ten sposób wartości. Gdy na wejściu pojawia się `0`, oznacza to, że generator zakończył swe działanie.
 
 ### Wejście
 
@@ -32,7 +32,6 @@ int NWD(int, int);
 int main() {
 	int a, b, c, sum = 0;
 	std::cin >> a >> b >> c;
-    
     while(c != 0) {
         if(c == 1) {
             sum += NWD(a, b);

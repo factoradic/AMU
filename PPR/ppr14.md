@@ -7,7 +7,7 @@ Agnieszka dowiedziała się ostatnio, skąd wziął się ciąg Fibonacciego. Mia
 - każda płodna para ma co miesiąc jedną parę potomstwa
 - króliki są nieśmiertelne.
 
-Wartość F(n) oznacza po prostu liczbę par królików po n miesiącach.
+Wartość `F(n)` oznacza po prostu liczbę par królików po `n` miesiącach.
 
 Agnieszka zastanawia się teraz, jakie byłoby rozwiązanie analogicznego zagadnienia w przypadku gdyby każda para królików stawała się płodna dopiero po dwóch miesiącach, ale za to miała co miesiąc dwie nowe pary potomstwa.
 

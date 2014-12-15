@@ -1,6 +1,6 @@
 # Zadanie Synowie Abrahama (ppr15a)
 
-Stary Abraham miał siedmiu synów. Każdy potomek Abrahama z parzystego pokolenia (wnuk, praprawnuk, praprapraprawnuk...) miał 3 synów, a każdy potomek Abrahama z nieparzystego pokolenia (syn, prawnuk, prapraprawnuk...) miał 5 synów. Oj, liczne jest potomstwo Abrahama – dlatego nie dziwi, że stary Abraham nie może się doliczyć swoich zstępnych. Pomóż Abrahamowi policzyć swoich potomków.
+Stary Abraham miał siedmiu synów. Każdy potomek Abrahama z parzystego pokolenia (wnuk, praprawnuk, praprapraprawnuk...) miał `3` synów, a każdy potomek Abrahama z nieparzystego pokolenia (syn, prawnuk, prapraprawnuk...) miał `5` synów. Oj, liczne jest potomstwo Abrahama – dlatego nie dziwi, że stary Abraham nie może się doliczyć swoich zstępnych. Pomóż Abrahamowi policzyć swoich potomków.
 
 ### Wejście
 
