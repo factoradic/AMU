@@ -1,5 +1,7 @@
 # Spis treści
 
+[Kilka przydatnych funkcji](przydatne.cpp)
+
 ### Zadania nie wymagające użycia struktur
 
 - [ppr_intro_1.md (Suma kwadratów)](ppr_intro_1.md)
