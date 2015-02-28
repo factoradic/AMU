@@ -93,10 +93,10 @@ log(5) 5 = 1
 
 ##### Etap trzeci (porównanie)
 
-W następnym kroku porównujemy wartość `f(n)` (po wykreśleniu stałych) z wartością `n` do potęgi `log(b) a`:
+W następnym kroku porównujemy wartość `f(n)` (po wykreśleniu stałych) z wartością `n` do potęgi `(log(b) a) + ε`:
 
 ```
-f(n)                                n ^ (log(a) b)
+f(n)                                n ^ ((log(b) a) + ε)
 n = n ^ 1                           n ^ (1 + ε)
 ```
 
